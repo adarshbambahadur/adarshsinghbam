@@ -1945,4 +1945,8 @@ footer .social-links li + li {
             transform: scale(1.1) translate3d(0em, 0, 0);
   }
 }
+
+.theme-changer-container {
+  display: none;
+}
 /*# sourceMappingURL=style.css.map */
